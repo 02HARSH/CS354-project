@@ -23,6 +23,7 @@ input_text = "Trump Just Claimed Andrew Jackson Had Psychic Powers And The Inter
 predicted_label = classify_news(input_text)
 print("Predicted Label:", predicted_label)
 Output was -  Real news.
+
 Ensure that the output label matches the expected classification based on the dataset from which the text was taken.
 
 
