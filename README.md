@@ -17,6 +17,7 @@ Steps to Run the Project:
 •	Run the cell to see the predicted label (fake or real) for the provided text.
 •	If any line in the input text gives an EOF inside string error during testing, it indicates a parsing issue in the dataset (Fake.csv or True.csv).
 •	To resolve this error, remove the problematic line from the dataset before retesting.
+
 Example Usage:
 input_text = "Trump Just Claimed Andrew Jackson Had Psychic Powers And The Internet Was Not Kind To Him (TWEETS)"
 predicted_label = classify_news(input_text)
