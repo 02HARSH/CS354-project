@@ -1,4 +1,4 @@
-Fake News Detection using LSTM
+Fake News Detection using LSTM - 
 This project aims to classify news articles as either fake or real using LSTM (Long Short-Term Memory) neural networks.
 Steps to Run the Project:
 1.	Download the Datasets:
